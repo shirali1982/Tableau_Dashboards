@@ -1,5 +1,7 @@
 #  Credit Card Fraud Analytics Dashboard
 
+<img src="assets/11.png" alt=""/>
+
 => This dashboard contains historical data of credit card transactions for all states of US in 2019 and show various visualizations on them. The data has ben cleaned using Tableau Prep Builder tool and then used in analysis using Tableau Desktop.
 
 => Dataset has 10,00,000+ rows, 23 fields (22 input varibles and 1 output variable). It is taken from Kaggle and is entirely clean (Without any anomalies).
